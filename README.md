@@ -2,4 +2,4 @@
 
 Created by Ashwin Kavidasan
 
-Refer to requirments.txt for libraries.
+run 'pip3 install -r requirements.txt'
