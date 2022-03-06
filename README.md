@@ -1,5 +1,7 @@
 # telegramStocksBot
 
 Created by Ashwin Kavidasan
-
-run 'pip3 install -r requirements.txt'
+```
+pip3 install -r requirements.txt
+py stocksBot.py
+```
