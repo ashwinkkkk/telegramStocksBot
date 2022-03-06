@@ -3,5 +3,5 @@
 Created by Ashwin Kavidasan
 ```
 pip3 install -r requirements.txt
-py stocksBot.py
+py bot.py
 ```
